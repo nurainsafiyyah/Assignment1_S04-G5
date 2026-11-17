@@ -13,9 +13,9 @@ Member 3:
 Member 4: Nur Ain Safiyyah binti Mohd Badri
 
 
-| No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
-|----|------|--------|------|----------------------------------|----------------------|
-| 1  |      |        |      |                                  |                      |
-| 2  |      |        |      |                                  |                      |
-| 3  |      |        |      |                                  |                      |
-| 4  |      |        |      |                                  |                      |
+| No |    Date    | Member |                Task                 | Source / search / AI prompt used |          Output / GitHub link                |
+|----|------------|--------|-------------------------------------|----------------------------------|----------------------------------------------|
+| 1  | 12/11/2026 |    3   |  Design front page of the report    |         Canva                    |  front page of the report                    |
+| 2  |            |        |      |                                  |                      |
+| 3  |            |        |      |                                  |                      |
+| 4  |            |        |      |                                  |                      |
