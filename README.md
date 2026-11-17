@@ -1,5 +1,5 @@
 ASSIGNMENT 1 – INDUSTRY TALK 1: CREATIVE THINKING
-Group code: S04-G5
+/n Group code: S04-G5
 Log activity
 
 Member 1:
