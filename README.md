@@ -27,6 +27,6 @@ Member 4: Nur Ain Safiyyah binti Mohd Badri
 | 10 | 17/11/2026 |    4   | Created a Github repository for group assignment      | Github                           | https://github.com/nurainsafiyyah/Group-Assignment-1-Industry-Talk- |
 | 11 | 17/11/2026 |    4   | Added group members as repository collaborator        | prompt: How to add friends as collaborator in Github repository | Repository can be edited by all members  |
 | 12 | 18/11/2026 |    4   |              Fix the references list                   | Canva      | Organized references list    |
-| 13 | 18/11/2026 |   1    |      Collect background infomation of the speaker     | Google Search: Dr Zahari Othman   |                   |
+| 13 | 18/11/2026 |   1    |      Collect background infomation of the speaker     | Google Search: Dr Zahari Othman   |   docs file with speaker's background               |
 | 14 | 18/11/2026 |   1    |       Write a reflection on the talk       |    Industry Talk Documentations   |       Completed individual reflection        |
-| 15 | 18/11/2026 |   1    |       Write about the speaker's experience     |       |               |
+| 15 | 19/11/2026 |   1    |       Write about the speaker's experience     |   Canva    |    Speaker's Experience completed           |
