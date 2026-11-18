@@ -29,4 +29,4 @@ Member 4: Nur Ain Safiyyah binti Mohd Badri
 | 12 | 18/11/2026 |    4   |              Fix the references list                   | Canva      | Organized references list    |
 | 13 | 18/11/2026 |   1    |      Collect background infomation of the speaker     | Google Search: Dr Zahari Othman   |   docs file with speaker's background               |
 | 14 | 18/11/2026 |   1    |       Write a reflection on the talk       |    Industry Talk Documentations   |       Completed individual reflection        |
-| 15 | 19/11/2026 |   1    |       Write about the speaker's experience     |   Canva    |    Speaker's Experience completed           |
+| 15 | 19/11/2026 |   1    |       Write about the speaker's experience     |   Canva    |    Speaker's Experience section completed           |
