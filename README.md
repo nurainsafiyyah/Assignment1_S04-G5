@@ -20,9 +20,9 @@ Member 4: Nur Ain Safiyyah binti Mohd Badri
 | 3  |            |        |                                                       |                                  |                                           |
 | 4  |            |        |                                                       |                                  |                                           |
 | 5  | 16/11/2026 |   3    | Finalize the HOTS section                             | Dr. Zahari Othman's slide /Google|  Complete HOTS section of the report      |
-| 6  | 17/11/2026 |   4    | Applying HOTS in Computer Science and Data Engineering|                                  |                                           |
-| 7  |            |        |                                                       |                                  |                                           |
-| 8  |            |        |                                                       |                                  |                                           |
+| 6  | 17/11/2026 |   4    | Applying HOTS in Computer Science and Data Engineering| Google Scholar                   |  Complete HOTS question                   |
+| 7  | 17/11/2026 |   4    | Write the self reflection of the Industry Talk        | Industry Talk                    |  Completed individual reflection          |
+| 8  |   |        |                                                       |                                  |                                           |
 | 9  |            |        |                                                       |                                  |                                           |
 | 10 |            |        |                                                       |                                  |                                           |
 | 11 |            |        |                                                       |                                  |                                           |
